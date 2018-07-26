@@ -1,2 +1,4 @@
 # smdr-avaya
-captutador de registro de llamadas
+Captutador de registro de llamadas para cualquier central telefonica avaya hecho en PHP.
+
+Este ejemplo fue realizado con la central IP Office.
